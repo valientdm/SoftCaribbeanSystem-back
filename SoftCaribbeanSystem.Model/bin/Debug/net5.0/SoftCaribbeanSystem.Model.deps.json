@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SoftCaribbeanSystem.Model/1.0.0": {
+        "runtime": {
+          "SoftCaribbeanSystem.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftCaribbeanSystem.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

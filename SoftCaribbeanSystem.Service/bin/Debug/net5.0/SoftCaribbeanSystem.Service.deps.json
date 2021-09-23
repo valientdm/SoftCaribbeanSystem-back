@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SoftCaribbeanSystem.Service/1.0.0": {
+        "dependencies": {
+          "SoftCaribbeanSystem.Common": "1.0.0",
+          "SoftCaribbeanSystem.Model": "1.0.0"
+        },
+        "runtime": {
+          "SoftCaribbeanSystem.Service.dll": {}
+        }
+      },
+      "SoftCaribbeanSystem.Common/1.0.0": {
+        "runtime": {
+          "SoftCaribbeanSystem.Common.dll": {}
+        }
+      },
+      "SoftCaribbeanSystem.Model/1.0.0": {
+        "runtime": {
+          "SoftCaribbeanSystem.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftCaribbeanSystem.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftCaribbeanSystem.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftCaribbeanSystem.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

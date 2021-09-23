@@ -1,0 +1,17 @@
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\bin\Debug\net5.0\SoftCaribbeanSystem.Service.deps.json
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\bin\Debug\net5.0\SoftCaribbeanSystem.Service.dll
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\bin\Debug\net5.0\ref\SoftCaribbeanSystem.Service.dll
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\bin\Debug\net5.0\SoftCaribbeanSystem.Service.pdb
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\bin\Debug\net5.0\SoftCaribbeanSystem.Common.dll
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\bin\Debug\net5.0\SoftCaribbeanSystem.Model.dll
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\bin\Debug\net5.0\SoftCaribbeanSystem.Common.pdb
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\bin\Debug\net5.0\SoftCaribbeanSystem.Model.pdb
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\obj\Debug\net5.0\SoftCaribbeanSystem.Service.csproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\obj\Debug\net5.0\SoftCaribbeanSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\obj\Debug\net5.0\SoftCaribbeanSystem.Service.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\obj\Debug\net5.0\SoftCaribbeanSystem.Service.AssemblyInfo.cs
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\obj\Debug\net5.0\SoftCaribbeanSystem.Service.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\obj\Debug\net5.0\SoftCaribbeanSystem.Service.csproj.CopyComplete
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\obj\Debug\net5.0\SoftCaribbeanSystem.Service.dll
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\obj\Debug\net5.0\ref\SoftCaribbeanSystem.Service.dll
+C:\Users\Andres\source\repos\SoftCaribbeanSystem\SoftCaribbeanSystem.Service\obj\Debug\net5.0\SoftCaribbeanSystem.Service.pdb
